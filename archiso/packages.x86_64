@@ -115,8 +115,8 @@ base-devel
 
 #vbox or vmware
 #open-vm-tools  this made it lag
-virtualbox-guest-modules-arch
-virtualbox-guest-utils
+#virtualbox-guest-modules-arch
+#virtualbox-guest-utils
 
 #packages for installer
 os-prober
@@ -142,12 +142,12 @@ pavucontrol
 volumeicon
 
 #bluetooth
-blueberry
-bluez
-bluez-libs
-bluez-utils
-bluez-firmware
-pulseaudio-bluetooth
+#blueberry
+#bluez
+#bluez-libs
+#bluez-utils
+#bluez-firmware
+#pulseaudio-bluetooth
 
 #network
 avahi
@@ -222,7 +222,7 @@ chromium
 dmenu
 #evolution
 feh
-firefox
+#firefox
 #flashplugin
 galculator
 geany
@@ -396,8 +396,8 @@ zsh-syntax-highlighting
 #############################
 
 #applications
-vivaldi
-vivaldi-codecs-ffmpeg-extra-bin
+#vivaldi
+#vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
 breeze-cursors-lh
